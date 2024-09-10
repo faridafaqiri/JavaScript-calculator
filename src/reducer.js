@@ -27,8 +27,8 @@ const calculateResult = (expression) => {
   }
 };
 
-// eslint-disable-next-line default-param-last
-const reducer = function (state = initialState, action) {
+// Named reducer function to avoid the unexpected unnamed function warning
+const reducer = function reducer(state = initialState, action) {
   switch (action.type) {
     case ADD_DIGIT: {
       const newDigit = action.payload;
