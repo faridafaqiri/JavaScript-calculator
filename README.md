@@ -15,7 +15,7 @@ Check out the live demo [here](./Capture.JPG).
 
 ## 🌐 Live Link
 
-[Live Demo](https://your-live-demo-link.com)
+[Live Demo](https://deploy-preview-1--stellular-zabaione-3ac2ad.netlify.app)
 
 ## 🛠️ Getting Started
 
